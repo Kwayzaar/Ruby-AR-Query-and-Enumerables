@@ -1,0 +1,7 @@
+#dev db is sqlite3 db that lives in db folder under flatiron
+
+development:
+  adapter: sqlite3
+  database: db/flatiron.sqlite3
+
+  
